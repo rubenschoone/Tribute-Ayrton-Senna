@@ -1,2 +1,2 @@
 # Tribute-Ayrton-Senna
-A Tribute to Ayrton Senna da Silva
+A Tribute page made for Ayrton Senna da Silva
